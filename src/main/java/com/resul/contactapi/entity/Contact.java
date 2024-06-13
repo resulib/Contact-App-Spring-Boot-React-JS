@@ -29,7 +29,7 @@ public class Contact {
     private String phone;
     private String address;
     private boolean isActive;
-    private String imageUrl;
+    private String photoUrl;
 
     @CreationTimestamp
     private Instant createdAt;
